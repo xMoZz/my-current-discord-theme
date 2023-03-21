@@ -44,9 +44,9 @@
 /*---------------BASIC---------------*/
 .theme-dark {
   --accent-color: #942aff;
-  --background-1: #1c1720;
-  --background-2: #271e29;                        /* 1e2529*/
-  --background-accent: #271e29;
+  --background-1: #171d20;
+  --background-2: #1e2529;                        /* 1e2529*/
+  --background-accent: #1e2529;
   --border-color: #273034;
 }
 /*-------------LIGHT MODE------------*/

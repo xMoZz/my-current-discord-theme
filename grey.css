@@ -4,8 +4,8 @@
   --background-1: #191919 !important;
   --background-2: #202020 !important;
   --border-color: #2c2c2c !important;
-  --background-mentioned: #50525810 !important;         /*ffff*/
-  --background-mentioned-hover: #50525815 !important;   /*ffff*/
+  --background-mentioned: #ffff10 !important;         /*ffff*/
+  --background-mentioned-hover: #ffff15 !important;   /*ffff*/
   --background-modifier-hover: #2a2a2a !important;
   --background-modifier-active: #5d5d5d !important;
   --text-normal: var(--accent-color) !important;
